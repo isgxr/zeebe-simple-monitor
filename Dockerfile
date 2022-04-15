@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/gb-frontend:v5
+FROM ghcr.io/camunda-community-hub/zeebe-simple-monitor:2.3.0
